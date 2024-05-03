@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Etch-a-Sketch</title>
+        <meta charset="utf-8">
+        <link href="week10lab.css" type="text/css" rel="stylesheet">
+        <script src="week10lab.js"></script>
+    </head>
+    <body>
+      <h1>Etch-A-Sketch</h1>
+      <div class="header">
+        <h6>Select the size</h6>
+        <button id="popup" class="btn btn-danger">Select</button>
+      </div>
+      <p id="message"></p>
+      <p id="draw"></p>
+      <div class="board"></div>
+      <div class="footer"></div>
+        <button class="btn btn-dark" onclick="setColor('black')">Black</button>
+        <button class="btn btn-warning" onclick="setColor('random')">Random</button>
+        <button class="btn btn-primary" onclick="resetBoard()">Reset</button>
+    </body>
+</html>

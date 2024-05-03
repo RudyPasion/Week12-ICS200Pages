@@ -1,0 +1,133 @@
+* {
+    outline: 1px solid red;
+  }
+  #div1 {
+    background-color: antiquewhite;
+  
+    width: 30px;
+    height: 30px;
+  
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+  
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+  }
+  
+  #div2 {
+    background-color: aqua;
+    
+    width: 100px;
+    height: 100px;
+  
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+  
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+  }
+  
+  #div3 {
+    background-color: blueviolet;
+    
+    width: 50px;
+    height: 50px;
+  
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+  
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+  }
+  #div4 {
+    background-color: chartreuse;
+    
+    width: 15px;
+    height: 15px;
+  
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+  
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+  }
+  #div5 {
+    background-color: crimson;
+    
+    width: 1000px;
+    height: 1000px;
+  
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+  
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  #div6 {
+    background-color: darkslategray;
+    
+    width: 10px;
+    height: 10px;
+  
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+  
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  #div7 {
+    background-color: hotpink;
+    
+    width: 500px;
+    height: 500px;
+  
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+  
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+  }
+  #div8 {
+    background-color: indigo;
+    
+    width: 200px;
+    height: 200px;
+  
+    padding-left: 50px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+  
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+  }

@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+
+    background: rgb(27, 27, 27);
+
+}
+
+.contrainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    
+    background: white;
+    width: 270px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.card-image{
+
+    height: 170px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.car-1{
+
+    background-image: url('https://westcottdesigns.net/wp-content/uploads/westcott-designs-2023-tacoma-build.png')
+}
+
+.car-2{
+
+    background-image: url('https://www.motortrend.com/uploads/2023/09/052-2024-Toyota-Tundra-TRD-Pro-front-three-quarters.jpg?fit=around%7C875:492')
+}
+
+.car-3{
+
+    background-image: url('https://www.motortrend.com/uploads/2023/10/2024-toyota-4runner-2.jpg')
+}
+
+.card p{
+
+    padding: 10px;
+}
+
+.card a{
+
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    text-align:center;
+    margin: 20px 50px;
+    text-decoration: none;
+}
+
+.card:hover{
+
+    background-color: rgb(62,62,62);
+    color: white;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
